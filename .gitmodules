@@ -1,0 +1,3 @@
+[submodule "src/lib/Mono.BlueZ"]
+	path = src/lib/Mono.BlueZ
+	url = https://github.com/brookpatten/Mono.BlueZ.git
